@@ -58,6 +58,16 @@ void circulos_coordenadas(int x1,int y1,int x2, int y2,int x3, int y3, int x4, i
 		int l2_triangulo2;
 		int l3_triangulo2;
 		/////
+		int a1_triangulo1;
+		int a2_triangulo1;
+		int a3_triangulo1;
+		///
+		int a1_triangulo2;
+		int a2_triangulo2;
+		int a3_triangulo2;
+
+
+
                 cout<<"Ingrese el lado 1 del triangulo 1"<<endl;
                 cin>>l1_triangulo1;
 	        cout<<"Ingrese el lado 2 del triangulo 1"<<endl;
@@ -71,6 +81,26 @@ void circulos_coordenadas(int x1,int y1,int x2, int y2,int x3, int y3, int x4, i
                 cin>>l2_triangulo2;
                 cout<<"Ingrese el lado 3 del triangulo 2"<<endl;
 		cin>>l3_triangulo2;
+		cout<<"_________________________________"<<endl;
+		cout<<"_________________________________"<<endl;
+		cout<<"Ingrese el angulo 1 del triangulo 1"<<endl;
+		cin>>l1_triangulo1;
+		cout<<"Ingrese el angulo 2 del triangulo 1"<<endl;
+		cin>>l2_triangulo1;
+		cout<<"Ingrese el angulo 3 del triangulo 1"<<endl;
+		cin>>l3_triangulo1;
+		cout<<"___________________________________"<<endl;
+		cout<<"Ingrese el angulo 1 del triangulo 2"<<endl;
+		cin>>l1_triangulo2;
+		cout<<"Ingrese el angulo 2 del triangulo 2"<<endl;
+		cin>>l2_triangulo2;
+		cout<<"Ingrese el angulo 3 del triangulo 2"<<endl;
+		cin>>l3_triangulo2;
+
+
+
+
+
 			
 	}//fin de ejercicio1
 
